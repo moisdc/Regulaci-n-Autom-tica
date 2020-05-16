@@ -1,2 +1,2 @@
-# Regulaci-n-Autom-tica
+# RegulacionAutomatica
 Prácticas de Laboratorio
