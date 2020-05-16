@@ -1,2 +1,2 @@
 # RegulacionAutomatica
-Prácticas de Laboratorio
+Prácticas de Laboratorio con el equipo
