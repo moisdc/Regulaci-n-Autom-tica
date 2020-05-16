@@ -1,1 +1,1 @@
-Fichero vacío
+Fichero ejemplo vacío que almacenará los datos de la Práctica 2
